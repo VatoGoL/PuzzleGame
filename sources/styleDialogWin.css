@@ -1,0 +1,15 @@
+#DialogWin{
+    background-color: #00AE8F;
+}
+#__text_win, #__text_time,
+#__button_ok{
+    color: #F9F9F9;
+}
+#__button_ok{
+    border: none;
+    background-color: #00635B;
+}
+#__button_ok:pressed{
+    background-color: #017A70;
+    border: none;
+}

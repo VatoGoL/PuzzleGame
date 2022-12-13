@@ -1,0 +1,13 @@
+QWidget#__main_screen{
+    background-color: #61B273;
+    color: #F9F9F9;
+}
+QPushButton#__button_start, #__button_exit, #__button_settings{
+    background-color: #00635B;
+    color: #F9F9F9;
+    /*width: 500px;*/
+    margin: 0 auto;
+}
+QLabel#__game_name{
+    color: #F9F9F9;
+}

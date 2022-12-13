@@ -1,0 +1,26 @@
+#__wrapper{
+    background-color: #61B273;
+}
+
+#__title_text, #__li_text,
+#__button_back, #__button_next {
+    color: #F9F9F9;
+}
+
+#__content_box{
+    background-color: #00AE8F;
+}
+#__preview_box{
+    background-color: #536B69;
+}
+#__w_load_images{
+    background-color: #00CA8D;
+}
+#__button_back, #__button_next{
+    background-color: #00635B;
+    border: none;
+}
+#__button_back:pressed, #__button_next:pressed{
+   background-color: #017A70;
+   border: none;
+}

@@ -1,0 +1,48 @@
+#__wrapper{
+    background-color: #61B273;
+}
+#__content_box{
+    background-color: #00AE8F;
+}
+#__levels_box{
+    background-color: #018E75;
+    border: 4px solid rgba(0,80,80,125);
+
+}
+
+#__title_text, #__button_back,
+#__text_level_number_1{
+    color: #F9F9F9;
+}
+
+#__button_back{
+    background-color: #00635B;
+    border: none;
+}
+#__button_back:pressed{
+    background-color: #017A70;
+    border: none;
+}
+
+#__level_image_1{
+    background-color: #536B69;
+}
+#__level_number_1{
+    background-color: #00CA8D;
+}
+#__level_slider::groove{
+
+    background-color: #00635B;
+    border-radius:30%;
+}
+#__level_slider::handle{
+    width: 50px;
+    height: 50px;
+    background-color: #00CA8D;
+
+    border: 5px solid #F9F9F9;
+    border-radius: 29%;
+}
+
+
+

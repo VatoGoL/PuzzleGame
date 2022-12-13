@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Marmelad_Regular.ttf</file>
+        <file>styleMainScreen.css</file>
+        <file>styleSettingsScreen.css</file>
+        <file>styleSelectGameMode.css</file>
+        <file>styleCreateOwnGame.css</file>
+        <file>images/home.png</file>
+        <file>images/pause.png</file>
+        <file>images/start.png</file>
+        <file>images/load_images.png</file>
+        <file>images/help.png</file>
+        <file>styleSelectLevel.css</file>
+        <file>styleSelectDifficultGame.css</file>
+        <file>styleGameWindow.css</file>
+        <file>images/arrow_down.png</file>
+        <file>config.txt</file>
+        <file>level_images/level_1_image.jpg</file>
+        <file>styleDialogWin.css</file>
+        <file>Puzzle_game_DB.db</file>
+        <file>level_images/adad.jpg</file>
+        <file>level_images/level_2_image.jpg</file>
+        <file>level_images/level_3_image.jpg</file>
+        <file>level_images/level_4_image.jpg</file>
+        <file>level_images/rand_img.webp</file>
+        <file>level_images/rand_img_2.jpg</file>
+        <file>level_images/rand_img_3.jpg</file>
+        <file>images/Reference/create_own_game.png</file>
+        <file>images/Reference/create_own_game_second.png</file>
+        <file>images/Reference/game_window.png</file>
+        <file>images/Reference/game_window_help.png</file>
+        <file>images/Reference/select_difficult.png</file>
+        <file>images/Reference/select_gamemode.png</file>
+        <file>images/Reference/select_level.png</file>
+        <file>styleReferencesScreen.css</file>
+    </qresource>
+</RCC>

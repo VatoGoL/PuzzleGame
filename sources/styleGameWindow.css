@@ -1,0 +1,15 @@
+#__wrapper{
+    background-color: #61B273;
+}
+#__game_zone_box, #__preview_box {
+    background-color: #00AE8F;
+}
+#__game_zone, #__preview_image {
+    background-color: #536B69;
+}
+#__time_text {
+    color: #F9F9F9;
+}
+#__tools_box {
+    background-color: #00CA8D;
+}

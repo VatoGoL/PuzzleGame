@@ -1,0 +1,19 @@
+#__wrapper{
+    background-color: #61B273;
+}
+#__title_text, #__button_start,
+#__button_settings, #__button_exit,
+#__button_reference{
+    color: #F9F9F9;
+}
+#__button_start, #__button_settings,
+#__button_exit, #__button_reference{
+    background-color: #00635B;
+    border: none;
+}
+
+#__button_start:pressed, #__button_settings:pressed,
+#__button_exit:pressed, #__button_reference:pressed{
+    background-color: #017A70;
+    border: none;
+}

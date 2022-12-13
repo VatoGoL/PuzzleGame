@@ -1,0 +1,42 @@
+#__wrapper{
+    background-color: #61B273;
+}
+#__content_box {
+    background-color: #00AE8F;
+}
+#__check_box_1, #__check_box_2,
+#__combo_box{
+    background-color: #00CA8D;
+    padding-left: 80px;
+
+    border: none;
+}
+#__combo_box::down-arrow{
+    background-image: url(":/images/arrow_down.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    width: 30px;
+    height: 30px;
+
+    margin-top: 5px;
+}
+#__combo_box::drop-down{
+    border:none;
+    padding-right: 50px;
+}
+
+#__button_back, #__form_text_1,
+#__form_text_2, #__form_text_3,
+#__combo_box, #__title_text{
+    color: #F9F9F9;
+}
+
+#__button_back{
+    background-color: #00635B;
+    border: none;
+}
+#__button_back:pressed{
+    background-color: #017A70;
+    border: none;
+}

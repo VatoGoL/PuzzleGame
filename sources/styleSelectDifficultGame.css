@@ -1,0 +1,33 @@
+#__wrapper{
+    background-color: #61B273;
+}
+
+#__content_box{
+    background-color: #00AE8F;
+}
+#__button_back {
+    background-color: #00635B;
+    border: none;
+}
+#__button_back:pressed{
+   background-color: #017A70;
+   border: none;
+}
+
+#__card_content_1, #__card_content_2,
+#__card_content_3, #__card_content_4 {
+    background-color: #536B69;
+}
+
+#__w_text_box_1, #__w_text_box_2,
+#__w_text_box_3, #__w_text_box_4 {
+    background-color: #00CA8D;
+}
+
+#__title_text, #__card_text_1,
+#__card_text_2, #__card_text_3,
+#__card_text_4, #__button_back,
+#__card_content_text_1, #__card_content_text_2,
+#__card_content_text_3, #__card_content_text_4 {
+    color: #F9F9F9;
+}

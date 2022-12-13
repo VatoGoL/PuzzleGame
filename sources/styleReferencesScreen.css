@@ -1,0 +1,17 @@
+#__wrapper{
+    background-color: #61B273:
+}
+
+#__text_title, #__text_subtitle,
+#__text_description{
+    color: #F9F9F9;
+}
+#__button_back, #__button_next{
+    background-color: #00635B;
+    border: none;
+}
+
+#__button_back:pressed, #__button_next:pressed{
+    background-color: #017A70;
+    border: none;
+}
